@@ -61,8 +61,6 @@ npx serve .
 
 ## Contact Form Setup
 
-The contact form submits to [Formsubmit.co](https://formsubmit.co). On the **first submission**, Formsubmit will send a one-time confirmation email to `reubenthomas03@gmail.com` — click the link in that email to activate the form.
-
 ---
 
 ## Contact
