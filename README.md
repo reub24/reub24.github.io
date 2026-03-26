@@ -2,8 +2,6 @@
 
 A single-page personal portfolio for Reuben Thomas, a Product Manager and UTD Honors Business Analytics student. The site showcases his experience, skills, and provides a way to get in touch.
 
-**Live at:** [github.com/reubent-code/Personal-Portfolio](https://github.com/reubent-code/Personal-Portfolio)
-
 ---
 
 ## Overview
